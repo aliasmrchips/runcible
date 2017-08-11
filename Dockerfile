@@ -3,7 +3,7 @@ FROM python:2
 MAINTAINER Mark Mathis <aliasmrchips@descarteslabs.com>
 
 RUN apt-get update
-RUN apt-get install libpq-dev libgeos-dev libgdal-dev python-pkg-resources -y
+RUN apt-get install libpq-dev libgeos-dev libgdal-dev python-pkg-resources python-numpy -y
 
 COPY . /opt/app
 WORKDIR /opt/app
