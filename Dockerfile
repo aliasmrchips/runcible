@@ -3,14 +3,14 @@ FROM python:2
 MAINTAINER Mark Mathis <aliasmrchips@descarteslabs.com>
 
 RUN apt-get update
-RUN apt-get install libpq-dev libgeos-dev libgdal-dev python-pkg-resources python-numpy -y
+RUN apt-get install libpq-dev libgeos-dev libgdal-dev python-pkg-resources -y
 
 COPY . /opt/app
 WORKDIR /opt/app
 
 RUN pip install --upgrade pip
+RUN pip install numpy scipy gevent gunicorn
 RUN pip install -r requirements.txt
-RUN pip install gevent gunicorn
 
 EXPOSE 8000
 
