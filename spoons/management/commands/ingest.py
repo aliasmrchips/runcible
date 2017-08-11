@@ -53,7 +53,7 @@ class Command(BaseCommand):
 
         print 'total_returned:%s, total:%s' % (result['total_returned'], result['total'])
 
-        for metadata in result['result']:
+        for metadata in result['results']:
 
             sat_id = metadata['sat_type']
             const_id = metadata['sat_type']
