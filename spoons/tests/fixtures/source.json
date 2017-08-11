@@ -1,0 +1,1063 @@
+[{
+    "model": "spoons.source",
+    "pk": 1,
+    "fields": {
+        "sat_id": "RE-5",
+        "const_id": "re",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 2,
+    "fields": {
+        "sat_id": "RE-2",
+        "const_id": "re",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 3,
+    "fields": {
+        "sat_id": "Terra",
+        "const_id": "modis09",
+        "groups": "[\"descartes:team\", \"beta\"]",
+        "default": "[\"descartes:team\", \"beta\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 4,
+    "fields": {
+        "sat_id": "Aqua",
+        "const_id": "modis09",
+        "groups": "[\"descartes:team\", \"beta\"]",
+        "default": "[\"descartes:team\", \"beta\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 5,
+    "fields": {
+        "sat_id": "RE-4",
+        "const_id": "re",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 7,
+    "fields": {
+        "sat_id": "RE-3",
+        "const_id": "re",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 8,
+    "fields": {
+        "sat_id": "RE-1",
+        "const_id": "re",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 9,
+    "fields": {
+        "sat_id": "1041",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 10,
+    "fields": {
+        "sat_id": "0f52",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 11,
+    "fields": {
+        "sat_id": "102f",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 12,
+    "fields": {
+        "sat_id": "0c76",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 13,
+    "fields": {
+        "sat_id": "0e16",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 14,
+    "fields": {
+        "sat_id": "0c0b",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 15,
+    "fields": {
+        "sat_id": "0f35",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 16,
+    "fields": {
+        "sat_id": "0e0f",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 17,
+    "fields": {
+        "sat_id": "0c78",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 18,
+    "fields": {
+        "sat_id": "0e0e",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 19,
+    "fields": {
+        "sat_id": "0e1f",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 20,
+    "fields": {
+        "sat_id": "1029",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 21,
+    "fields": {
+        "sat_id": "1019",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 22,
+    "fields": {
+        "sat_id": "0c24",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 23,
+    "fields": {
+        "sat_id": "0f34",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 24,
+    "fields": {
+        "sat_id": "0c65",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 25,
+    "fields": {
+        "sat_id": "0c38",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 26,
+    "fields": {
+        "sat_id": "0e19",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 27,
+    "fields": {
+        "sat_id": "0c75",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 28,
+    "fields": {
+        "sat_id": "0c27",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 29,
+    "fields": {
+        "sat_id": "0c82",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 30,
+    "fields": {
+        "sat_id": "0c37",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 31,
+    "fields": {
+        "sat_id": "0c59",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 32,
+    "fields": {
+        "sat_id": "0c45",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 33,
+    "fields": {
+        "sat_id": "0c46",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 34,
+    "fields": {
+        "sat_id": "0f28",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 35,
+    "fields": {
+        "sat_id": "0d06",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 36,
+    "fields": {
+        "sat_id": "100c",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 37,
+    "fields": {
+        "sat_id": "101a",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 38,
+    "fields": {
+        "sat_id": "0c81",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 39,
+    "fields": {
+        "sat_id": "1025",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 40,
+    "fields": {
+        "sat_id": "0c79",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 41,
+    "fields": {
+        "sat_id": "0d05",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 42,
+    "fields": {
+        "sat_id": "0e3a",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 43,
+    "fields": {
+        "sat_id": "0c19",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 44,
+    "fields": {
+        "sat_id": "1010",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 45,
+    "fields": {
+        "sat_id": "0c54",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 46,
+    "fields": {
+        "sat_id": "102e",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 47,
+    "fields": {
+        "sat_id": "0c42",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 48,
+    "fields": {
+        "sat_id": "0c41",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 49,
+    "fields": {
+        "sat_id": "Aqua",
+        "const_id": "modis09_coarse",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 50,
+    "fields": {
+        "sat_id": "100f",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 51,
+    "fields": {
+        "sat_id": "1016",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 52,
+    "fields": {
+        "sat_id": "0e26",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 53,
+    "fields": {
+        "sat_id": "1044",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 54,
+    "fields": {
+        "sat_id": "1005",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 55,
+    "fields": {
+        "sat_id": "0e30",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 56,
+    "fields": {
+        "sat_id": "0e14",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 57,
+    "fields": {
+        "sat_id": "1007",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 58,
+    "fields": {
+        "sat_id": "1038",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 59,
+    "fields": {
+        "sat_id": "0e0d",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 60,
+    "fields": {
+        "sat_id": "1031",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 61,
+    "fields": {
+        "sat_id": "1015",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 62,
+    "fields": {
+        "sat_id": "1021",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 63,
+    "fields": {
+        "sat_id": "1017",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 64,
+    "fields": {
+        "sat_id": "1001",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 65,
+    "fields": {
+        "sat_id": "Terra",
+        "const_id": "modis09_coarse",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 66,
+    "fields": {
+        "sat_id": "1042",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 67,
+    "fields": {
+        "sat_id": "0c43",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 68,
+    "fields": {
+        "sat_id": "0e2f",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 69,
+    "fields": {
+        "sat_id": "0f17",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 70,
+    "fields": {
+        "sat_id": "100e",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 71,
+    "fields": {
+        "sat_id": "0e20",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 72,
+    "fields": {
+        "sat_id": "1018",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 73,
+    "fields": {
+        "sat_id": "0f25",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 74,
+    "fields": {
+        "sat_id": "101e",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 75,
+    "fields": {
+        "sat_id": "0c62",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 76,
+    "fields": {
+        "sat_id": "1009",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 77,
+    "fields": {
+        "sat_id": "1003",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 78,
+    "fields": {
+        "sat_id": "103c",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 79,
+    "fields": {
+        "sat_id": "0c1b",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 80,
+    "fields": {
+        "sat_id": "1034",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 81,
+    "fields": {
+        "sat_id": "1012",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 82,
+    "fields": {
+        "sat_id": "1028",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 83,
+    "fields": {
+        "sat_id": "102c",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 84,
+    "fields": {
+        "sat_id": "0c22",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 85,
+    "fields": {
+        "sat_id": "0f12",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 86,
+    "fields": {
+        "sat_id": "102d",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 87,
+    "fields": {
+        "sat_id": "0f15",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 88,
+    "fields": {
+        "sat_id": "101b",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 89,
+    "fields": {
+        "sat_id": "LANDSAT_8",
+        "const_id": "l8",
+        "groups": "[\"descartes:team\", \"beta\", \"public\"]",
+        "default": "[\"descartes:team\", \"beta\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 90,
+    "fields": {
+        "sat_id": "1023",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 91,
+    "fields": {
+        "sat_id": "101f",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 92,
+    "fields": {
+        "sat_id": "100b",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 93,
+    "fields": {
+        "sat_id": "0f1d",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 94,
+    "fields": {
+        "sat_id": "1022",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 95,
+    "fields": {
+        "sat_id": "1030",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 96,
+    "fields": {
+        "sat_id": "0f18",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 97,
+    "fields": {
+        "sat_id": "103a",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 98,
+    "fields": {
+        "sat_id": "0f43",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 99,
+    "fields": {
+        "sat_id": "100a",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 100,
+    "fields": {
+        "sat_id": "1033",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 101,
+    "fields": {
+        "sat_id": "102a",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 102,
+    "fields": {
+        "sat_id": "101d",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 103,
+    "fields": {
+        "sat_id": "0f51",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 104,
+    "fields": {
+        "sat_id": "0f42",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 105,
+    "fields": {
+        "sat_id": "103b",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 106,
+    "fields": {
+        "sat_id": "0f38",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 107,
+    "fields": {
+        "sat_id": "SENTINEL-1B",
+        "const_id": "s1b",
+        "groups": "[\"descartes:team\", \"beta\"]",
+        "default": "[\"descartes:team\", \"beta\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 108,
+    "fields": {
+        "sat_id": "SENTINEL-1A",
+        "const_id": "s1a",
+        "groups": "[\"descartes:team\", \"beta\"]",
+        "default": "[\"descartes:team\", \"beta\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 109,
+    "fields": {
+        "sat_id": "S3A",
+        "const_id": "S3_COARSE",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 110,
+    "fields": {
+        "sat_id": "S3A",
+        "const_id": "S3",
+        "groups": "[\"descartes:team\", \"beta\"]",
+        "default": "[\"descartes:team\", \"beta\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 111,
+    "fields": {
+        "sat_id": "S2A",
+        "const_id": "S2A",
+        "groups": "[\"descartes:team\", \"beta\"]",
+        "default": "[\"descartes:team\", \"beta\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 112,
+    "fields": {
+        "sat_id": "LANDSAT_7",
+        "const_id": "l7",
+        "groups": "[\"descartes:team\", \"beta\"]",
+        "default": "[\"descartes:team\", \"beta\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 113,
+    "fields": {
+        "sat_id": "1024",
+        "const_id": "pss4",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 115,
+    "fields": {
+        "sat_id": "LANDSAT_5",
+        "const_id": "l5",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 116,
+    "fields": {
+        "sat_id": "Landsat7",
+        "const_id": "l7",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 117,
+    "fields": {
+        "sat_id": "Landsat5",
+        "const_id": "l5",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 118,
+    "fields": {
+        "sat_id": "Landsat4",
+        "const_id": "l5",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 119,
+    "fields": {
+        "sat_id": "LANDSAT_4",
+        "const_id": "l5",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}, {
+    "model": "spoons.source",
+    "pk": 120,
+    "fields": {
+        "sat_id": "srtm",
+        "const_id": "srtm",
+        "groups": "[\"descartes:team\"]",
+        "default": "[\"descartes:team\"]"
+    }
+}]
