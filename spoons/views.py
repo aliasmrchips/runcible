@@ -11,19 +11,19 @@ from datetime import datetime, timedelta
 import json
 
 from spoons import logger
-from spoons.models import Source, Metadata
+from spoons.models import Product, Metadata
 
 import os
 import time
 from operator import itemgetter
 
 
-def sources(request, groups=['public']):
+def products(request, groups=['public']):
 
     result = []
 
-    for source in Source.objects.filter(groups__overlap=groups):
-        result.append({'sat_id': source.sat_id, 'const_id': source.const_id, 'value': source.pk})
+    for product in Product.objects.filter(groups__overlap=groups):
+        result.append({'product_id': product.product_id, 'value': source.pk})
 
     return HttpResponse(json.dumps(result), content_type='application/json')
 

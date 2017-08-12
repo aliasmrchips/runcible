@@ -13,8 +13,6 @@ urlpatterns = [
 
     url(r'^search', search),
     url(r'^summary', summary),
-    url(r'^sources', sources),
-
-    url(r'^admin/', include(admin.site.urls)),
+    url(r'^products', products),
 
 ]
