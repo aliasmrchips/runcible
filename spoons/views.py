@@ -23,7 +23,7 @@ def products(request, groups=['public']):
     result = []
 
     for product in Product.objects.filter(groups__overlap=groups):
-        result.append({'product_id': product.product_id, 'value': source.pk})
+        result.append(product.name)
 
     return HttpResponse(json.dumps(result), content_type='application/json')
 
