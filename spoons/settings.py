@@ -123,7 +123,3 @@ LOGGING = {
         },
     },
 }
-
-PROJECT = "dl-platform"
-VERSION = "unknown"
-SERVICE_NAME = "metadata"
