@@ -14,7 +14,7 @@ runcible
     * `virtualenv venv`
     * `source venv/bin/activate`
     * `pip install -r requirements.txt`
-    * `export DATABASE_URL="..."
+    * `export DATABASE_URL="..."`
 * Test installation
     * `python manage.py migrate`
     * `python manage.py shell`
