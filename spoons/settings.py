@@ -42,8 +42,6 @@ INSTALLED_APPS = (
 
 SITE_ID = 1
 
-LOGIN_URL = 'admin/login/'
-
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
@@ -80,20 +78,9 @@ import dj_database_url
 
 DATABASES['default'] = dj_database_url.config(conn_max_age=600)
 
-CACHES = {
-    'default': {
-        'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
-        'LOCATION': 'unique-snowflake',
-    }
-}
-
 LANGUAGE_CODE = 'en-us'
 
 TIME_ZONE = 'UTC'
-
-FIXTURE_DIRS = (
-    'spoons/tests/fixtures/',
-)
 
 STATIC_URL = '/static/'
 STATIC_ROOT = '/opt/app/static'
